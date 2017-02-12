@@ -13,7 +13,7 @@ public class Tipos_de_datos_2 {
 		
 		
 		Scanner sc=new Scanner(System.in);
-		
+		//Cambio realizado con el vcs desconectado
 		
 		do {
 			
